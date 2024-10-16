@@ -1,0 +1,67 @@
+body{
+   background-size: cover; 
+}
+
+.contenitore{
+    background-color:rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    width: 950px;
+    height: 650px;
+    border:none;
+    padding: 50px;
+    box-sizing: border-box;
+    margin: auto;  
+}
+
+/* intestazione */
+#logo{
+    text-align: center;
+}
+
+img{  
+   margin-top: 6%; 
+   width: 200px;
+   height: 50;
+}
+
+.titolo{
+    color: rgb(26, 232, 26);
+    margin-top: 5px;
+}
+
+/* barra di navigazione */
+.prenotazioni{
+    background-color: rgb(26, 232, 26);
+    height: 35px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 7px;
+}
+
+
+/* scielta monopattini */
+main{
+    color: white;
+}
+#nomeveicolo{
+    font-size: 25px;
+}
+
+#caricagialla{
+     background-color: #f3da1e;
+     height: 25px;
+     width: 300px;
+     border-radius: 5px;
+}
+#caricaverde{
+    background-color: #33f016;
+    height: 25px;
+    width: 500px;
+    border-radius: 5px;
+}
+#caricarossa{
+    background-color: #f31e1e;
+    height: 25px;
+    width: 150px;
+    border-radius: 5px;
+}
